@@ -1,7 +1,10 @@
 # App-Inventor
 Building App inventor on android.
 
-Group Project: Harshit Mittal, Harsh Kumar, Rahul Gurjar
+Group Project:
+
+Members: Harshit Mittal, Harsh Kumar, Rahul Gurjar
+Started: 20th May 2013
 
 It allows anyone slightly familiar with computer programming to create software applications for the Android operating system
 (OS).
